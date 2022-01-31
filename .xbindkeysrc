@@ -1,0 +1,23 @@
+"(rofi -show run)" 
+	m:0x4 + c:31	
+	Control + i	
+
+"(wal -i /home/quervo/media/wallpapers3/ -a 90)"
+	m:0x5 + c:30
+	Control+Shift + u
+
+"(wal -i /home/quervo/media/wallpapers/ -a 90)"
+ m:0x44 + c:33
+ Control+Mod4 + p
+
+"(wal -i /home/quervo/media/wall4/ -a 85)"
+ m:0x44 + c:32
+ Control+Mod4 + o
+
+"(sh ~/.config/rofi/bin/menu_powermenu)"
+	m:0x4 + c:96
+   Control + F12
+
+"(sh ~/.config/rofi/bin/launcher_colorful)"
+	m:0x4 + c:95
+   Control + F11
